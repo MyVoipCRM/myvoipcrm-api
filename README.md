@@ -60,6 +60,10 @@ Aynı `externalId` ile tekrar gönderim yeni kayıt açmaz, mevcut kaydı günce
 Kişi, ürün/hizmet, kategori, sipariş (`POST /orders/complete` ile tek istekte), teklif, satış, kargo ve WhatsApp şablon
 mesajı uçları için: https://www.myvoipcrm.com/gelistirici/external-api
 
+## Destek
+
+Entegrasyon soruları için: info@myvoipcrm.com
+
 ## Lisans
 
 MIT
